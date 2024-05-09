@@ -1,21 +1,12 @@
-# Airbnb Analysis with Tableau
+# Data Analysis with Tableau
 
 **Introduction**
 
 Built an interactive Tableau dashboard to analyze the Airbnb data extracted from MongoDB Atlas. Developed a Streamlit application for trend analysis, pattern recognition, and data insights using Exploratory Data Analysis (EDA). Explored variations in price, location, property type, and seasons through dynamic plots and charts.
 
-**Table of Contents**
-
-1. Key Technologies and Skills
-2. Installation
-3. Usage
-4. Features
-5. Contributing
-6. License
-7. Contact
 
 
-**Key Technologies and Skills**
+**Technologies**
 - Python
 - Pandas
 - MongoDB
@@ -25,9 +16,7 @@ Built an interactive Tableau dashboard to analyze the Airbnb data extracted from
 - Tableau
 
 
-**Installation**
-
-To run this project, you need to install the following packages:
+**Requirements**
 
 ```python
 pip install pandas
@@ -78,31 +67,4 @@ Identify and analyze the top 10 hosts based on various features, providing insig
 
 Utilize Plotly to create interactive and informative visualizations for EDA, making data exploration efficient and insightful.
 
-**Tableau Dashboard**
-
-Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
-
-Explore the Tableau dashboard [https://public.tableau.com/gopiashokan/Airbnb-Analysis](https://public.tableau.com/views/AirbnbAnalysis_16942685266440/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) for in-depth insights.
-
-
-**Contributing**
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
 ![](https://github.com/gopiashokan/Airbnb-Analysis/blob/main/tableau_dashboard.png)
-# Data-Analysis-with-Tableau
-# Data-Analysis-with-Tableau
